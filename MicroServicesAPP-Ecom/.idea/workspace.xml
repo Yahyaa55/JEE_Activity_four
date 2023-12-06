@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9dedb27-f861-49f7-bf58-079436291686" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Activité pratique N°3/MicroServicesAPP-Ecom/MicroServicesAPP-Ecom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAPP-Ecom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatway-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/emsi/orderservice/entities/OrderProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-web-app/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/DTO/BankAccountRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/DTO/BankAccountResponcetDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/EBankServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/Service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/Service/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/entities/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/entities/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/entities/IAccountProjrction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/enums/AccountType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/exceptions/CostumDataFetcherExceptionResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/mappers/Accountmapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/repositories/BankAccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/repositories/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/web/AccountRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/java/com/emsi/EbankService/web/BankAccountGraphQLController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/main/resources/graphql/schema.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service-GQL/src/test/java/com/emsi/EbankService/EBankServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/DTO/BankAccountRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/DTO/BankAccountResponcetDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/EBankServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/Service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/Service/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/entities/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/entities/IAccountProjrction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/enums/AccountType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/mappers/Accountmapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/repositories/BankAccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/java/com/emsi/EbankService/web/AccountRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°2/E-bank-Service/src/test/java/com/emsi/EbankService/EBankServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/BillinServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/entities/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/entities/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/models/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/repositories/BillRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/repositories/ProductItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/service/CustomarRestClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/service/ProductRestClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/java/com/example/billinservice/web/BillRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Billing-Service/src/test/java/com/example/billinservice/BillinServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/src/main/java/com/emsi/ConfigServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Config-Service/src/test/java/com/emsi/ConfigServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/src/main/java/com/emsi/customarservice/CustomarServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/src/main/java/com/emsi/customarservice/entities/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/src/main/java/com/emsi/customarservice/entities/CustomerProjection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/src/main/java/com/emsi/customarservice/repositories/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Customar-Service/src/test/java/com/emsi/customarservice/CustomarServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/src/main/java/com/emsi/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Discovery-Service/src/test/java/com/emsi/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/src/main/java/com/emsi/gateway/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Gateway/src/test/java/com/emsi/gateway/GatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/src/main/java/com/emsi/inventoryservice/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/src/main/java/com/emsi/inventoryservice/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/src/main/java/com/emsi/inventoryservice/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/Inventory-Service/src/test/java/com/emsi/inventoryservice/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/MicroServicesAPP-Ecom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activité pratiqueN°3/MicroServicesAPP-Ecom/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YnUyveKU9xHxS2B8Mlk4nivHC3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yahya/Desktop/KNOWLEDGE/S9/Cours Emsi/JEE-SB/Activité pratique N°4/MicroServicesAPP-Ecom/customar-service/src/main/java/com/emsi/customarservice/web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yahya\Desktop\KNOWLEDGE\S9\Cours Emsi\JEE-SB\Activité pratique N°4\MicroServicesAPP-Ecom\customar-service\src\main\java\com\emsi\customarservice\web" />
+      <recent name="C:\Users\yahya\Desktop\KNOWLEDGE\S9\Cours Emsi\JEE-SB\Activité pratique N°4\MicroServicesAPP-Ecom\gatway-service\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yahya\Desktop\KNOWLEDGE\S9\Cours Emsi\JEE-SB\Activité pratique N°4\MicroServicesAPP-Ecom" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.emsi.billingservice.controllers" />
+      <recent name="com.emsi.orderservice.services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CustomarServiceApplication">
+    <configuration name="rest-api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (ecom-web-app)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emsi.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emsi.configservice.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomarServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="customar-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emsi.customarservice.CustomarServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatwayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gatway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emsi.gatwayservice.GatwayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emsi.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emsi.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (ecom-web-app)" type="js.build_tools.npm">
+      <package-json value="$USER_HOME$/Downloads/New folder/gatway-service/ecom-web-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="showProfilesPanel" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9dedb27-f861-49f7-bf58-079436291686" name="Changes" comment="" />
+      <created>1701161094615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701161094615</updated>
+      <workItem from="1701161095625" duration="11022000" />
+      <workItem from="1701185742675" duration="16596000" />
+      <workItem from="1701262747412" duration="2645000" />
+      <workItem from="1701267444913" duration="184000" />
+      <workItem from="1701267647600" duration="1433000" />
+      <workItem from="1701271578420" duration="1650000" />
+      <workItem from="1701454539407" duration="1222000" />
+      <workItem from="1701456399980" duration="2290000" />
+      <workItem from="1701511553645" duration="2018000" />
+      <workItem from="1701522011363" duration="192000" />
+      <workItem from="1701547153973" duration="8491000" />
+      <workItem from="1701678241525" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
